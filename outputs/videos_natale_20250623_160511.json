@@ -1,0 +1,85 @@
+{
+  "id": null,
+  "status": "completed",
+  "expiresAt": "2025-06-23T20:05:10+00:00",
+  "success": true,
+  "data": {
+    "videos": [
+      {
+        "url": "https://streaming-community.gratis/titles/19368-guarda-natale-per-sempre-forever-christmas-streaming.html",
+        "title": "Natale per Sempre - Forever Christmas",
+        "views": 5.7,
+        "duration": "85 min",
+        "upload_date": null,
+        "thumbnail_url": "https://streaming-community.gratis/uploads/thumb/203x293-0-70/2021-12/1640280867-570602540.jpg"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/15358-guarda-tutto-normale-il-prossimo-natale-streaming.html",
+        "title": "Tutto normale il prossimo Natale",
+        "views": 6.7,
+        "duration": "100 min",
+        "upload_date": null,
+        "thumbnail_url": "https://streaming-community.gratis/uploads/thumb/203x293-0-70/2020-12/1607002253-818562548.jpg"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/19377-guarda-natale-di-nuovo-streaming.html",
+        "title": "Natale... di nuovo?!",
+        "views": 5.3,
+        "duration": "94 min",
+        "upload_date": null,
+        "thumbnail_url": "https://streaming-community.gratis/uploads/logos/tt13465140.webp"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/19909-guarda-la-nostalgia-del-natale-streaming.html",
+        "title": "La nostalgia del Natale",
+        "views": 6.3,
+        "duration": "90 min",
+        "upload_date": "2019",
+        "thumbnail_url": "https://streaming-community.gratis/uploads/logos/tt10571920.webp"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/21011-guarda-sapore-di-natale-streaming.html",
+        "title": "Sapore di Natale",
+        "views": 5.9,
+        "duration": "83 min",
+        "upload_date": null,
+        "thumbnail_url": "https://streaming-community.gratis/uploads/logos/tt6478538.webp"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/15623-guarda-il-natale-della-mamma-imperfetta-streaming.html",
+        "title": "Il Natale della mamma imperfetta",
+        "views": 5.5,
+        "duration": "86 min",
+        "upload_date": null,
+        "thumbnail_url": "https://streaming-community.gratis/uploads/thumb/203x293-0-70/2020-12/1608828275_locandina.jpg"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/5439-guarda-indovina-chi-viene-a-natale.html",
+        "title": "Indovina chi viene a Natale?",
+        "views": 5.5,
+        "duration": "94 min",
+        "upload_date": null,
+        "thumbnail_url": "https://streaming-community.gratis/uploads/logos/tt3420060.webp"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/8458-guarda-il-calendario-di-natale.html",
+        "title": "Il calendario di Natale",
+        "views": 5.7,
+        "duration": "95 min",
+        "upload_date": "",
+        "thumbnail_url": "https://streaming-community.gratis/uploads/logos/tt8262802.webp"
+      },
+      {
+        "url": "https://streaming-community.gratis/titles/5296-guarda-natale-a-londra-dio-salvi-la-regina.html",
+        "title": "Natale a Londra - Dio salvi la Regina",
+        "views": null,
+        "duration": "90 min",
+        "upload_date": "2016",
+        "thumbnail_url": "https://streaming-community.gratis/uploads/logos/tt6095722.webp"
+      }
+    ]
+  },
+  "error": null,
+  "warning": null,
+  "sources": null
+}

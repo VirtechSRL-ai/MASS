@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  mass-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mass-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - FIRECRAWL_API_KEY=${FIRECRAWL_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - MAX_PAGES=3
+      - MAX_RESULTS_PER_SOURCE=10
+      - LOG_LEVEL=INFO
+      - ENV=development
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
