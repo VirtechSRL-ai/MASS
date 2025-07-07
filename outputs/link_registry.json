@@ -1,0 +1,748 @@
+{
+  "links": {
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2022/04/19/video/la_star_dellorchestra_jazz_e_lintelligenza_artificiale_addestrata_con_oltre_500_assoli-423327385/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/17/news/google_deepmind_veo_2_ia_video_realistici_4k-423891552/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/03/22/news/unarma_di_omologazione_di_massa-393293649/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/10/news/startup_lavoro_intelligenza_artificiale-424659881/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/21/news/legge_intelligenza_artificiale_italia_cosa_prevede-424077883/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/04/29/news/intelligenza_artificiale_perche_e_sbagliato_antropomorfizzare_la_macchina_e_computerizzare_la_mente-422767623/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2024/11/04/video/farmaci_cosi_lintelligenza_artificiale_valuta_la_tossicita_per_luomo_e_per_lambiente-423596733/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/03/20/news/cosi_lintelligenza_artificiale_puo_aiutare_le_persone_non_vedenti_a_esplorare_il_mondo-393012529/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/09/video/come_usare_lintelligenza_artificiale_i_master_della_italian_tech_academy-423866414/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/10/30/news/quanto_sappiamo_di_come_funziona_lintelligenza_artificiale-419083505/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2025/03/07/video/lintelligenza_artificiale_per_la_diagnosi_precoce_del_tumore_al_seno-424048020/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/11/news/lintelligenza_artificiale_entra_nei_pc-421851485/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/06/10/news/reid_hoffmann_intelligenza_artificiale_investimenti_lavoro-423192869/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale-generativa/2024/05/22/video/mille_microsoft_lintelligenza_artificiale_come_lelettricita_cambiera_il_mondo-423381488/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2025/04/23/news/intelligenza_artificiale_il_75_dei_consumatori_ritiene_che_prima_o_poi_rilevera_le_emozioni-424144200": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale-generativa/2024/05/23/video/lintelligenza_artificiale_generativa_nuove_professioni_e_competenze_in_italia-423381489/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/08/news/display_trasparenti_e_tv_potenziati_con_lia_le_novita_di_samsung_al_ces_2024-421833062/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/29/video/ia_se_la_diagnosi_la_fa_lalgoritmo_cosi_cambia_il_rapporto_medico-paziente-423585233/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/09/news/l_idea_di_cortical_labs_una_rete_neurale_fatta_di_veri_neuroni-424052662/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/06/news/la_grande_bolla_dell_intelligenza_artificiale-424652774/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2021/12/27/news/il_futuro_visto_da_annalisa_barla_la_prof_che_insegna_machine_learning-331506239/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/30/news/deepseek_cina_eroi_intelligenza_artificiale_ia-423970850/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/06/15/news/cento_cose_da_sapere_intelligenza_artificiale-423236418/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale-generativa/2024/05/22/video/rizzetto_camera_dei_deputati_in_italia_ci_sono_circa_1700000_posizioni_non_coperte_per_mismatch_di_competenze-423381485/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/20/news/meta-ai-chiede-numero-societa-ferroviaria-ma-ia-invia-quello-di_un_privato-allarme-privacy-424681353": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/economia/2023/11/18/news/openai_altman_licenziamento_perche-420646100/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/04/30/news/daniela_amodei_claude_chatgpt-397995026/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2022/09/06/video/unopera_creata_da_intelligenza_artificiale_ha_vinto_un_concorso_darte_ma_per_molti_e_un_imbroglio-423326875/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/09/video/come_usare_lintelligenza_artificiale_i_master_della_italian_tech_academy-423866414/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/05/news/il_cofondatore_di_apple_steve_wozniak_mi_fido_dell_intelligenza_ma_non_di_quella_artificiale-424043755/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/ospedali-di-eccellenza/2025/06/06/news/tumori-urologici-intelligenza-artificiale-informazioni-pazienti-424652792": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/13/news/master_intelligenza_artificiale_aziende_corso_come_usarla-424060582/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/12/31/news/all_intelligenza_artificiale_per_crescere_serve_un_autostrada-423915116/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/04/23/news/seth_dobrin_lintelligenza_artificiale_va_regolamentata_non_fermata-397201572/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/19/news/la_nuova_legge_sull_intelligenza_artificiale_del_giappone_ha_qualcosa_da_insegnare_a_usa_e_ue-424680323/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/economia/2023/12/07/news/ai_act_europa_negoziato_chatgpt-421605165/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/speciale-itw-2023/2023/10/02/news/intelligenza_artificiale_rasetti_fenomeno_culturale_non_solo_tecnologico-416601173/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/21/video/osteoporosi_cosi_lintelligenza_artificiale_predice_il_rischio-423569238/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/blog/strategikon/2023/03/30/news/piu_che_di_chatgpt_dovremmo_avere_paura_di_noi_stessi-394231087/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2021/10/15/news/ai_play_la_netflix_dell_intelligenza_artificiale-322308539/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/28/news/deepseek_reazioni_dubbi_silicon_valley_ia_impressionante-423966641/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/economia/2023/12/26/news/intelligenza_artificiale_il_futuro_e_nelle_mani_usa_litalia_produce_articoli_accademici_ma_non_imprese-421752846/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/12/03/news/speciale_intelligenza_artificiale_guida-423810693/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/economia/rapporti/osserva-italia/mercati/2024/05/21/news/lintelligenza_artificiale_rendera_piu_umane_le_relazioni_con_i_clienti-423055169/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/12/30/news/israele_gaza_intelligenza_artificiale_gospel_errori_rischi-423913614/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/dossier/economia/innova-italia/2025/03/03/news/automazione_intelligenza_artificiale_e_sicurezza_sul_lavoro_come_cambia_il_mondo_della_logistica-424040132": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/10/20/news/ces_las_vegas_2024_tendenze_tecnologia-418314867/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/09/16/video/lintelligenza_artificiale_per_predire_lalzheimer-423503900/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/12/video/le_luci_di_las_vegas_sullintelligenza_artificiale_che_vede_e_comprende_il_mondo-423882031/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/dossier/repubblica-delle-idee/2025/06/14/video/repubblica_delle_idee_2025_-_lintelligenza_artificiale-424669374/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/18/news/l_intelligenza_artificiale_portera_via_alcuni_lavori_ma_fara_aumentare_le_retribuzioni_di_altri-424676909/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale-generativa/2024/05/22/video/michilli_fondazione_mondo_digitale_lavoriamo_per_creare_una_connessione_virtuosa_tra_scuola_universita_e_mondo_del_lavo-423381484/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/labrevolution/2023/05/30/news/sclerosi_multipla_intelligenza_artificiale-402483593/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/frontiere/2025/06/17/news/farmaci_intelligenza_artificiale_medicina_ricerca-424675058/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/23/news/openai_operator_agente_ia_naviga_da_sola-423957726/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/12/news/google_robotics_l_intelligenza_artificiale_di_gemini_esce_dal_mondo_digitale_e_si_incarna_nei_robot-424058917/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/labrevolution/2022/12/19/news/ecografia_seno_intelligenza_artificiale_meno_biopsie-379097322/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/09/news/ecco_i_nuance_audio_gli_occhiali_per_sentire_oltre_che_vedere-421839570/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/02/10/news/minori_e_intelligenza_artificiale_alla_ricerca_del_pensiero_critico-422086802/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/13/news/l_illusione_di_pensare_cosa_succede_davvero_quando_diciamo_che_l_intelligenza_artificiale_ragiona-424667672/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-infrastrutture-2025/2025/07/07/news/ia_e_gemelli_digitali__la_rete_tlc_del_futuro-424710626/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/frontiere/2024/06/21/news/medicina_intelligenza_artificiale_tecnologia_radiologia_risonanza_magnetica_tac_pet_radiografia-423268747/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/11/news/ai_una_rivoluzione_di_valore_contro_il_rischio_ombra-424660193/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/20/news/meta-ai-chiede-numero-societa-ferroviaria-ma-ia-invia-quello-di-un-privato-allarme-privacy-424681353": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/05/news/la_spada_e_l_algoritmo_perche_in_guerra_e_necessaria_un_etica_dell_intelligenza_artificiale-423921857/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/04/10/news/intelligenza_artificiale_guide_repubblica_regalo-424120606/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/05/news/ray_kurzweil_previsioni_ia_singolarita_mwc_2025-424044021/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/08/news/dallintelligenza_artificiale_ai_robot_dalla_salute_digitale_alla_sostenibilita_cosa_aspettarsi_dal_ces_2024-421831754/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/10/14/news/cose_midjourney_lintelligenza_artificiale_che_crea_qualsiasi_immagine-417447146/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2022/04/12/news/cosi_lintelligenza_artificiale_semplifica_la_vita_ai_filmmaker-345145953/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale/2024/11/19/video/ben_affleck_ai-423654169/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/salute/dossier/labrevolution/2023/09/15/news/intelligenza_artificiale_genere_pregiudizi_medicina-414574007/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2022/05/07/news/gli_studi_sulla_ia_ristretta_e_lincognita_della_ia_generale-346311622/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/12/video/le_luci_di_las_vegas_sullintelligenza_artificiale_che_vede_e_comprende_il_mondo-423882031/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/10/02/news/intelligenza_artificiale_addestrata_post_instagram_faceook-416565330/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2025/03/07/video/lintelligenza_artificiale_per_la_diagnosi_precoce_del_tumore_al_seno-424048020/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2023/03/01/news/chagpt_e_la_nuova_openai_aperta_ma_non_troppo_ci_siamo_sbagliati_sullessere_open_source-390064649/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/04/news/beautiful_minds_gemini_ia_riccardo_giraldi_italia-423920297/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/29/news/alibaba_sfida_deepseek_qwen_max_nuova_ia_cinese-423968537/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/tech/2023/09/11/video/intelligenza_artificiale_leva_di_competitivita_per_economia_e_business-423325995/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/dossier/economia/innova-italia/2025/05/14/news/intelligenza_artificiale_e_pmi_un_agenda_per_guidare_l_innovazione-424187266/": {
+      "script": "estrai_dati.py",
+      "timestamp": "2025-07-07T12:26:04.616137"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/11/news/ai_una_rivoluzione_di_valore_contro_il_rischio_ombra-424660193": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/16/news/meta-ai-ancora-a-rischio-pubblicate-conversazioni-utenti-424672413/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/venerdi/2025/06/25/news/intelligenza_artificiale_deadbot_morti_cina_corea_del_sud-424690449/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/26/news/google_lancia_gemini_cli_uno_strumento_open_source_di_intelligenza_artificiale_per_gli_sviluppatori-424693688/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/economia/2025/06/16/news/dati_personali_intelligenza_artificiale_ricerca-424667117/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/03/video/parla_balla_e_si_ricorda_di_te_amira_e_un_robot_umanoide_che_fa_impressione-424039932/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/esteri/2025/05/11/news/intelligenza_artificiale_trump_licenzia_responsabile_copyright-424180126/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2024/04/29/news/intelligenza_artificiale_perche_e_sbagliato_antropomorfizzare_la_macchina_e_computerizzare_la_mente-422767623": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/economia/2025/07/07/news/rivoluzione_logistica_navi_treni_algoritmi_sfide_italia-424711450/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/05/29/video/google_porta_lia_nelle_auto_ecco_cosa_fara_gemini-424637071/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale-generativa/2024/05/22/video/michilli_fondazione_mondo_digitale_lavoriamo_per_creare_una_connessione_virtuosa_tra_scuola_universita_e_mondo_del_lavo-423381484": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/economia/2025/06/13/news/meta_compra_scale_ai_super_team_wang-424666763/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2022/10/20/video/il_video_virale_sullinquietante_evoluzione_delluomo_creato_con_lintelligenza_artificiale-423326460/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2023/03/20/news/cosi_lintelligenza_artificiale_puo_aiutare_le_persone_non_vedenti_a_esplorare_il_mondo-393012529": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/18/news/master_ia_lavoro_come_usare_intelligenza_artificiale-424676856/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2024/06/10/news/reid_hoffmann_intelligenza_artificiale_investimenti_lavoro-423192869": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/economia/2023/12/26/news/intelligenza_artificiale_il_futuro_e_nelle_mani_usa_litalia_produce_articoli_accademici_ma_non_imprese-421752846": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/04/10/news/intelligenza_artificiale_guida_lavoro_studio_repubblica_regalo-424120666/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/venerdi/2023/04/20/news/chat_gpt_internet_intelligenza_artificiale-396902027/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2023/10/30/news/quanto_sappiamo_di_come_funziona_lintelligenza_artificiale-419083505": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/economia/2025/06/12/news/ia_italiane_non_superano_test_lingua-424663861/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2024/10/28/news/apple_intelligence_arriva_in_italia_da_aprile_2025_ecco_come_provare_in_anteprima_le_funzioni_per_iphone-423583171/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2023/03/31/news/stop_chatgpt_garante_privacy_guido_scorza-394392619/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/07/03/news/gemini_veo_3_video_ia_google_disponibile_in_italia-424707921/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/salute/dossier/frontiere/2025/06/17/news/farmaci_intelligenza_artificiale_medicina_ricerca-424675058": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/salute/dossier/frontiere/2025/06/13/news/sanita_e_intelligenza_artificiale_nasce_il_primo_osservatorio_nazionale_targato_fiaso-424666073": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2024/02/16/news/openai_chatgpt_video_sora-422143956/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2024/03/08/news/donne_intelligenza_artificiale_italia-422273156/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/11/news/lintelligenza_artificiale_entra_nei_pc-421851485": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/29/news/alibaba_sfida_deepseek_qwen_max_nuova_ia_cinese-423968537": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/cultura/2025/05/07/news/la_tecnologia_il_nuovo_papa_e_il_nuovo_avversario_l_intelligenza_artificiale-424170221/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/13/news/master_intelligenza_artificiale_aziende_corso_come_usarla-424060582": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/20/video/ero_solo_un_prompt_e_adesso_canto_pazzesco_abbiamo_intervistato_iam_la_prima_cantante_italiana_fatta_con_ia-424680709": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2022/01/19/news/i_patemi_e_le_virtu_delle_intelligenze_artificiali_nella_lotta_al_terrorismo-334297992": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/23/news/openai_operator_agente_ia_naviga_da_sola-423957726": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2023/09/25/video/grazie_allintelligenza_artificiale_ho_parlato_in_giapponese_e_tedesco_due_lingue_che_non_conosco-423325953/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/30/news/deepseek_cina_eroi_intelligenza_artificiale_ia-423970850": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/01/28/news/deepseek_reazioni_dubbi_silicon_valley_ia_impressionante-423966641": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/20/news/meta-ai-chiede-numero-societa-ferroviaria-ma-ia-invia-quello-di_un_privato-allarme-privacy-424681353/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/esteri/2025/05/19/news/caro_bolletta_famiglie_pagano_conto_intelligenza_artificiale_al_posto_big_tech-424336669/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/05/14/news/tiktok_ai_alive_arriva_funzione_trasforma_foto_in_video_realistici_come_funziona-424187491": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2023/04/18/news/unimmagine_creata_con_lia_ha_vinto_un_concorso_per_la_fotografia_e_unottima_notizia-396649088/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/16/news/meta-ai-ancora-a-rischio-pubblicate-conversazioni-utenti-424672413": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/29/video/ia_se_la_diagnosi_la_fa_lalgoritmo_cosi_cambia_il_rapporto_medico-paziente-423585233": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-infrastrutture-2025/2025/07/07/news/ia_e_gemelli_digitali__la_rete_tlc_del_futuro-424710626": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/10/news/sora_openai_ia_testo_video_come_si_usa-423872465": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/05/05/news/meta_zuckerberg_futuro_amicizia_intelligenza_artificiale-424166618/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/21/news/legge_intelligenza_artificiale_italia_cosa_prevede-424077883": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/04/21/video/repidee_2024_luna_con_ascani_e_benanti_come_governare_lintelligenza_artificiale-423325390/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/19/video/leffetto_dellia_sul_droide_disney_si_intristisce_perche_il_suo_tempo_e_scaduto-424073348/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/14/news/sempre_piu_ricchi_sempre_piu_poveri_se_ne_parla_al_jobless_society_forum-424669284/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/tecnologia/2023/03/01/news/chagpt_e_la_nuova_openai_aperta_ma_non_troppo_ci_siamo_sbagliati_sullessere_open_source-390064649": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:35:27.937928"
+    },
+    "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/29/video/ia_se_la_diagnosi_la_fa_lalgoritmo_cosi_cambia_il_rapporto_medico-paziente-423585233/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/economia/2025/06/18/news/barbie_intelligenza_artificiale_mattel_chatgpt_giochi_bambole-424676615/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/20/video/ero_solo_un_prompt_e_adesso_canto_pazzesco_abbiamo_intervistato_iam_la_prima_cantante_italiana_fatta_con_ia-424680709/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale/2025/01/16/video/blue_origin_il_primo_lancio_del_razzo_glenn_e_stato_un_successo-423942316": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/12/30/news/perche_il_2025_sara_ancora_l_anno_dell_intelligenza_artificiale-423913366/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/08/news/display_trasparenti_e_tv_potenziati_con_lia_le_novita_di_samsung_al_ces_2024-421833062": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/salute/dossier/labrevolution/2024/03/15/news/intelligenza_artificiale_ecco_cosa_si_puo_fare_in_sanita-422298063": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/13/news/l_illusione_di_pensare_cosa_succede_davvero_quando_diciamo_che_l_intelligenza_artificiale_ragiona-424667672": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/09/news/ecco_i_nuance_audio_gli_occhiali_per_sentire_oltre_che_vedere-421839570": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/economia/2024/03/16/news/ai_act_un_testo_lungo_e_complesso_che_svela_le_difficolta_a_normare_il_futuro-422320616": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/blog/lettere/2023/12/27/news/intelligenza_artificiale_e_copyright_perche_la_causa_del_nyt_a_openai_e_microsoft_e_lai_act_europeo_sono_collegati-421760124/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/02/10/news/minori_e_intelligenza_artificiale_alla_ricerca_del_pensiero_critico-422086802": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/03/15/video/ia_lo_strumento_di_adobe_per_tradurre_un_video_in_lingue_diverse-423325466": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/03/25/news/fuse_onirica_arte_intelligenza_artificiale-422364632": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/10/news/intelligenza_artificiale_openai_risponde_al_new_york_times_i_vostri_contenuti_del_non_determinanti_per_chatgpt-421847063/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2023/10/30/video/edutech_challenges_i_consigli_di_hugging_face_e_aws_per_una_ai_alla_portata_di_tutti-423325574": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/05/30/news/ia_in_italia_dati_utilizzo_analisi_comscore_chatgpt_deepseek_copilot-424638709/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/10/16/news/adobe_premiere_pro_video_intelligenza_artificiale-423556798": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/11/08/news/la_canzone_di_natale_la_canta_l_intelligenza_artificiale-423606571/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/12/03/news/speciale_intelligenza_artificiale_guida-423810693": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://repubblica.it/tecnologia/2024/03/08/news/donne_intelligenza_artificiale_italia-422273156": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/09/video/come_usare_lintelligenza_artificiale_i_master_della_italian_tech_academy-423866414": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2023/03/29/news/chi_ha_fatto_foto_papa_piumino_intelligenza_artificiale_midjourney-394115698/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/20/news/meta-ai-chiede-numero-societa-ferroviaria-ma-ia-invia-quello-di_un-privato-allarme-privacy-424681353": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/10/28/news/apple_arriva_l_imac_con_chip_m4_pronto_per_l_intelligenza_artificiale-423582994/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/10/28/news/apple_intelligence_arriva_in_italia_da_aprile_2025_ecco_come_provare_in_anteprima_le_funzioni_per_iphone-423583171": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2020/01/15/news/scan-della-retina-protesi-e-voice-recognition-cosi-l-intelligenza-artificiale-di-google-ci-aiuta-a-guarire-299465817": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/salute/dossier/frontiere/2025/06/13/news/sanita_e_intelligenza_artificiale_nasce_il_primo_osservatorio_nazionale_targato_fiaso-424666073/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/08/news/dallintelligenza_artificiale_ai_robot_dalla_salute_digitale_alla_sostenibilita_cosa_aspettarsi_dal_ces_2024-421831754": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "http://www.repubblica.it/tecnologia/2016/10/20/news/stephen_hawking_l_intelligenza_artificiale_e_il_futuro_dell_umanita_-150230760/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2023/12/23/news/apple_in_trattativa_con_gli_editori_per_allenare_la_sua_intelligenza_artificiale_con_le_news-421738028/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/salute/dossier/medtalk/2021/03/09/video/intelligenza_artificiale_al_servizio_della_diagnosi-423309058/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/07/video/lintelligenza_artificiale_ti_aiutera_a_scegliere_il_farmaco_giusto_grazie_al_gemello_virtuale-423541448": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/cultura/2025/06/17/news/intelligenza_artificiale_oriente_occidente_tao_confucianesimo-424675384/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/05/22/news/honor_400_pro_ia_google_veo_2_trasforma_foto_in_video_uscita_prezzo-424600982": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/02/16/news/openai_chatgpt_video_sora-422143956": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/02/28/news/sora_openai_disponibile_in_italia_come_si_usa-424034437": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/17/news/google_deepmind_veo_2_ia_video_realistici_4k-423891552": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/11/19/video/ben_affleck_ai-423654169/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/06/20/news/a_cosa_serve_perplexity_accuse_intelligenza_artificiale_dati_non_sono_al_sicuro-423261206": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/12/11/news/gli_artigiani_dell_intelligenza_artificiale-423880267/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/05/22/news/geoffrey_hinton_il_padre_dell_ia_dovremmo_preoccuparci_dell_intelligena_artificiale-424611451/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/03/12/news/google_robotics_l_intelligenza_artificiale_di_gemini_esce_dal_mondo_digitale_e_si_incarna_nei_robot-424058917": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2022/12/29/video/direste_mai_che_questo_video_e_stato_creato_dallintelligenza_artificiale-423326334": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/02/16/video/openai_si_e_ispirata_ad_amalfi_e_burano_per_lanciare_sora_la_nuova_ia_che_genera_video-423325494/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/04/21/video/repidee_2024_luna_con_ascani_e_benanti_come_governare_lintelligenza_artificiale-423325390": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/12/27/news/openai_cambia_struttura_societaria_per_inseguire_profitto-423909088/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/05/14/news/tiktok_ai_alive_arriva_funzione_trasforma_foto_in_video_realistici_come_funziona-424187491/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2025/06/18/news/master_ia_lavoro_come_usare_intelligenza_artificiale-424676856": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/12/video/le_luci_di_las_vegas_sullintelligenza_artificiale_che_vede_e_comprende_il_mondo-423882031": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/04/07/news/lintelligenza_artificiale_che_cura_ovvero_come_gli_algoritmi_ci_salvano_la_vita-422427691": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    },
+    "https://www.repubblica.it/tecnologia/2024/01/07/news/modelli_di_linguaggio_cosa_sono_perche_se_ne_parla_tanto_e_che_futuro_avranno-421823928/": {
+      "script": "estrai_dati_semplice.py",
+      "timestamp": "2025-07-07T12:40:30.699075"
+    }
+  },
+  "metadata": {
+    "created": "2025-07-07T12:23:45.126067",
+    "last_updated": "2025-07-07T12:40:30.699121"
+  }
+}

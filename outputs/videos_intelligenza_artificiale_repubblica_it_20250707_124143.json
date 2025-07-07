@@ -1,0 +1,581 @@
+{
+  "id": null,
+  "status": "completed",
+  "expiresAt": "2025-07-07T16:41:41+00:00",
+  "success": true,
+  "data": {
+    "videos": [
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/27/news/veo_3_ai_video_google_intelligenza_artificiale-424632878/",
+        "title": "Google ha rotto il silenzio dell\u2019intelligenza artificiale",
+        "views": null,
+        "duration": "0:08",
+        "upload_date": "2025-05-27T00:00:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/27/195701846-ccac857e-99f2-48a5-b697-76e69983afb3.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/07/03/news/gemini_veo_3_video_ia_google_disponibile_in_italia-424707921/",
+        "title": "Veo 3, l\u2019IA di Google per creare video realistici con audio, \u00e8 disponibile anche in Italia",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-07-03T08:53:05Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/07/03/105302381-6ec86965-d389-472d-9e76-4d828fb108fb.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2024/06/20/news/a_cosa_serve_perplexity_accuse_intelligenza_artificiale_dati_non_sono_al_sicuro-423261206/",
+        "title": "Possiamo fidarci delle IA? No, e adesso abbiamo le prove",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-06-20T00:00:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/06/20/100635298-c38bd393-3e50-4839-a4d2-6b58508ff92a.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2024/10/16/news/adobe_premiere_pro_video_intelligenza_artificiale-423556798/",
+        "title": "Su Adobe Premiere Pro ora si possono creare video con l\u2019intelligenza artificiale - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-10-16T04:00:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/10/15/165503342-20a06555-b6b0-44c1-841f-db7589734162.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/04/15/news/google_gemini_veo_2_come_usarlo-424129985/",
+        "title": "Google, con Veo 2 ora Gemini pu\u00f2 creare video a partire da un testo",
+        "views": null,
+        "duration": "1 minuto",
+        "upload_date": "2025-04-15T17:04:45Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/04/15/190443546-e147ddf8-a4a2-4619-8ff1-1c17c3c23066.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/09/video/come_usare_lintelligenza_artificiale_i_master_della_italian_tech_academy-423866414/",
+        "title": "Come usare l'intelligenza artificiale: i master della Italian Tech Academy",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-09T18:27:38Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/12/09/192737134-11560ed7-04e4-491e-829c-ab803069cc23.jpg"
+      },
+      {
+        "url": "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/12/video/le_luci_di_las_vegas_sullintelligenza_artificiale_che_vede_e_comprende_il_mondo-423882031/",
+        "title": "Le luci di Las Vegas sull'intelligenza artificiale che \"vede e comprende il mondo\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-12",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/Hs9pNL5MUbLzXgpbfQBq4--duE8=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/12/12/100451832-154ace93-5659-4b33-8b47-557f5621409e.jpg"
+      },
+      {
+        "url": "https://www.italian.tech/dossier/intelligenza-artificiale/2024/11/19/video/ben_affleck_ai-423654169/",
+        "title": "Ben Affleck contro l'IA: \"Non sa scrivere come Shakespeare e non sa fermarsi quando \u00e8 il momento\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-11-19",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/GfufaucZ9iS5f1om8o_h-TOziuw=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/11/19/164529974-2a332fe6-970e-449b-bc64-6955fe974285.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/10/news/sora_openai_ia_testo_video_come_si_usa-423872465/",
+        "title": "Arriva Sora di OpenAI: come funziona l\u2019IA che trasforma un testo in un video",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-10",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/12/10/084907901-658a1cc6-2c25-4ff7-9922-06fd571af592.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/27/news/veo_3_ai_video_google_intelligenza_artificiale-424632878/",
+        "title": "Veo 3, il modello IA di Google, realizza video iper realistici con dialoghi ed effetti sonori - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-27T17:57:06Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/27/195701972-373fec0f-8230-4656-b564-c93cd6aa6f17.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/02/12/video/il_backstage_del_video_dellinter_fatto_con_lia_quanto_lavoro_per_un_serpente-423998704/",
+        "title": "Il backstage del video dell'Inter fatto con l'IA: quanto lavoro per un serpente",
+        "views": null,
+        "duration": "00:56",
+        "upload_date": "2025-02-12T16:43:01Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/02/12/174258858-50a28101-f2b5-4030-831a-05e15368257c.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/02/10/video/lo_spot_di_chatgpt_per_il_superbowl_che_e_costato_14_milioni_di_dollari-423993200/",
+        "title": "Lo spot di ChatGpt per il SuperBowl che \u00e8 costato 14 milioni di dollari",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-02-10T11:08:33Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/02/10/120831350-44c9c9d2-4c46-478b-b726-054e852ed4c7.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/14/news/tiktok_ai_alive_arriva_funzione_trasforma_foto_in_video_realistici_come_funziona-424187491/",
+        "title": "TikTok AI Alive: come funziona il tool che trasforma le foto in video realistici - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-14T10:54:04Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/14/125402531-96dbc648-aa8f-441c-b6b0-dba9e490aca1.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/22/news/honor_400_pro_ia_google_veo_2_trasforma_foto_in_video_uscita_prezzo-424600982",
+        "title": "Honor 400, lo smartphone che trasforma le foto in brevi video",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-22T15:05:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/22/151030495-5bea4002-4e3d-4cb4-ad08-1b8b9f553b6f.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/07/news/video_fake_omicidio_bassetti_tg1_intelligenza_artificiale-424171111/",
+        "title": "Il finto video del Tg1 in cui viene annunciato l\u2019omicidio di Bassetti",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-07",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/07/112537803-8ccdc0cd-f21d-4c27-9430-8ce411a0f1b1.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/14/news/falso_video_deepfake_effetti_vaccini_anti-covid-424191245/",
+        "title": "Il video deepfake sui falsi effetti collaterali del vaccino anti-Covid",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-14",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/14/184830932-8ff56dd4-b44f-4b48-bf3a-a0a1e598c301.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/06/20/video/ero_solo_un_prompt_e_adesso_canto_pazzesco_abbiamo_intervistato_iam_la_prima_cantante_italiana_fatta_con_ia-424680709/",
+        "title": "Ero solo un prompt e adesso canto Pazzesco!. Abbiamo intervistato Iam, la prima cantante italiana fatta con IA",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-06-20T05:17:05Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/06/20/071703703-71b53d62-9e19-4807-a674-02f14ec498ef.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/07/04/video/game_boy_nes_switch_e_playstation_se_le_auto_fossero_console_per_videogame-424710837/",
+        "title": "Game Boy, Nes, Switch e Playstation: se le auto fossero console per videogame",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-07-04T11:59:21Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/07/04/135919864-5289b4bc-09cd-43f3-acf4-ce727e6b15ec.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/06/09/video/lia_puo_dipendere_da_un_chip_in_texas_amazon_cerca_una_risposta-424657463/",
+        "title": "Viaggio nei laboratori Amazon in Texas, per scoprire come nasce un chip per l\u2019IA",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-06-09T13:05:37Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/06/09/150535801-69bb14ee-e731-41db-8022-1f8f4cad26b0.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2024/11/11/video/lintelligenza_artificiale_ha_ricostruito_la_basilica_di_san_pietro_al_millimetro-423611288/",
+        "title": "L'intelligenza artificiale ha ricostruito la Basilica di San Pietro al millimetro",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-11-11T17:06:54Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/11/11/180653570-2e223ec9-c3ec-4b49-9e17-5f0855857389.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale-italiana-ia-chatgpt/2023/04/06/video/insegno_a_una_macchina_a_parlare_non_e_piu_fantascienza-423326184",
+        "title": "Insegno a una macchina a parlare. Non \u00e8 pi\u00f9 fantascienza",
+        "views": null,
+        "duration": null,
+        "upload_date": "2023-04-06T06:48:33Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/084632400-f5e72d90-5ed0-48b2-a6a0-cc5b520c11f7.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/29/video/ia_se_la_diagnosi_la_fa_lalgoritmo_cosi_cambia_il_rapporto_medico-paziente-423585233/",
+        "title": "IA, se la diagnosi la fa l'algoritmo: cos\u00ec cambia il rapporto medico-paziente",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-10-29T09:44:15Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/10/29/104413718-357d4615-b48f-4ffa-80dc-238e35b80abf.jpg"
+      },
+      {
+        "url": "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2025/03/07/video/lintelligenza_artificiale_per_la_diagnosi_precoce_del_tumore_al_seno-424048020/",
+        "title": "L'Intelligenza artificiale per la diagnosi precoce del tumore al seno",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-03-07",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/7WoOoj3bSUCdUq9UWJ-rluiNcz0=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2025/03/07/103320615-50ab9acc-4560-4b09-a47c-ed72bbab4664.jpg"
+      },
+      {
+        "url": "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2024/11/04/video/farmaci_cosi_lintelligenza_artificiale_valuta_la_tossicita_per_luomo_e_per_lambiente-423596733/",
+        "title": "Farmaci, cos\u00ec l'Intelligenza Artificiale valuta la tossicit\u00e0 per l'uomo e per l'ambiente",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-11-04",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/Xob56R5TvlK_p2BCpbg0GBX3K30=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/11/04/142804816-39797681-bf05-4a5c-86ff-507c7a189302.jpg"
+      },
+      {
+        "url": "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/21/video/osteoporosi_cosi_lintelligenza_artificiale_predice_il_rischio-423569238/",
+        "title": "Osteoporosi, cos\u00ec l'Intelligenza Artificiale predice il rischio di frattura",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-10-21",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/om95-Sgw6LxUH4AZ_Cxb1bOs5jQ=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/10/21/184440370-70eb45b2-e57d-4fbe-9197-c9546961f240.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale-generativa/2024/05/22/video/michilli_fondazione_mondo_digitale_lavoriamo_per_creare_una_connessione_virtuosa_tra_scuola_universita_e_mondo_del_lavo-423381484/",
+        "title": "Michilli (Fondazione Mondo Digitale): \"Lavoriamo per creare una connessione virtuosa tra scuola, universit\u00e0 e mondo del lavoro\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-05-22T11:57:50Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/11/12/160844422-329a6dbd-a6d6-49bc-a995-ea2624ee0d5a.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/10/news/sora_openai_ia_testo_video_come_si_usa-423872465",
+        "title": "Arriva Sora di OpenAI: come funziona l\u2019IA che trasforma un testo in un video",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-10T07:49:11Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/12/10/084907976-395af373-a937-4d36-8d83-94d9fdec2465.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale-generativa/2024/05/22/video/mille_microsoft_lintelligenza_artificiale_come_lelettricita_cambiera_il_mondo-423381488/",
+        "title": "Mille (Microsoft): \"L'intelligenza artificiale come l'elettricit\u00e0: cambier\u00e0 il mondo\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-05-22T09:06:38Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/11/12/155744949-91a47a7b-dcdd-4936-ae75-5015006f985e.jpg"
+      },
+      {
+        "url": "https://repubblica.it/tecnologia/2025/05/27/news/veo_3_ai_video_google_intelligenza_artificiale-424632878",
+        "title": "Veo 3, il modello IA di Google, realizza video iper realistici con dialoghi ed effetti sonori - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-27T17:57:06Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/27/195701972-373fec0f-8230-4656-b564-c93cd6aa6f17.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/italian-tech-week/2023/09/27/video/itw_2023_una_nuova_generazione_di_giovani_imprenditori_italiani_nel_mondo_dellintelligenza_artificiale-423325900/",
+        "title": "ITW 2023, una nuova generazione di giovani imprenditori italiani nel mondo dell'intelligenza artificiale",
+        "views": null,
+        "duration": "30:48",
+        "upload_date": "2023-09-27T15:37:27Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/103411232-d35a3377-1c5f-4a95-bb25-0d645a8db79a.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/03/15/video/ia_lo_strumento_di_adobe_per_tradurre_un_video_in_lingue_diverse-423325466/",
+        "title": "IA, lo strumento di Adobe per tradurre un video in lingue diverse",
+        "views": null,
+        "duration": "00:47",
+        "upload_date": "2024-03-15T15:47:27Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/091921745-728024e5-7a18-4b01-856d-c80fa35a0ed1.jpg"
+      },
+      {
+        "url": "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/12/video/le_luci_di_las_vegas_sullintelligenza_artificiale_che_vede_e_comprende_il_mondo-423882031/",
+        "title": "Le luci di Las Vegas sull'intelligenza artificiale che \"vede e comprende il mondo\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-12T00:00:00Z",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/Hs9pNL5MUbLzXgpbfQBq4--duE8=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/12/12/100451832-154ace93-5659-4b33-8b47-557f5621409e.jpg"
+      },
+      {
+        "url": "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/09/video/come_usare_lintelligenza_artificiale_i_master_della_italian_tech_academy-423866414/",
+        "title": "Come usare l'intelligenza artificiale: i master della Italian Tech Academy",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-09T00:00:00Z",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/A5Qv3FO8dabjHr2qAe9jjL72aJA=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/12/09/192737178-026b4b7f-0c05-42b2-b4bd-da9810e83175.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2023/03/02/video/vunous_la_video_installazione_di_centai_che_racconta_la_scienza_e_gli_scienziati-423326222",
+        "title": "V\u03bfu\u03c2/Nous, la video installazione di Centai che racconta la scienza e gli scienziati",
+        "views": null,
+        "duration": "01:54",
+        "upload_date": "2023-03-02T15:52:53Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/110254722-18f9730b-7709-4e15-93a6-d79deed54a3a.jpg"
+      },
+      {
+        "url": "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/12/video/le_luci_di_las_vegas_sullintelligenza_artificiale_che_vede_e_comprende_il_mondo-423882031",
+        "title": "Le luci di Las Vegas sull'intelligenza artificiale che \"vede e comprende il mondo\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-12",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/Hs9pNL5MUbLzXgpbfQBq4--duE8=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/12/12/100451832-154ace93-5659-4b33-8b47-557f5621409e.jpg"
+      },
+      {
+        "url": "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/09/video/come_usare_lintelligenza_artificiale_i_master_della_italian_tech_academy-423866414",
+        "title": "Come usare l'intelligenza artificiale: i master della Italian Tech Academy",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-09",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/A5Qv3FO8dabjHr2qAe9jjL72aJA=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/12/09/192737178-026b4b7f-0c05-42b2-b4bd-da9810e83175.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/esteri/2025/07/05/video/trump_celebra_i_suoi_successi_in_un_video_generato_con_lintelligenza_artificiale-424712787/",
+        "title": "Trump celebra i suoi successi in un video generato con l'Intelligenza Artificiale",
+        "views": null,
+        "duration": "00:59",
+        "upload_date": "2025-07-05T10:26:46Z",
+        "thumbnail_url": "https://www.repstatic.it/content/nazionale/img/2025/07/05/122645465-2c5905bb-1ebd-460d-aa87-5b60dc107f22.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/02/16/video/openai_si_e_ispirata_ad_amalfi_e_burano_per_lanciare_sora_la_nuova_ia_che_genera_video-423325494/",
+        "title": "OpenAI si \u00e8 ispirata ad Amalfi e Burano per lanciare Sora, la nuova IA che genera video",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-02-16T18:28:49Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/091837860-680ce6fd-d55f-4cfa-bdf4-d8eadf339d71.jpg"
+      },
+      {
+        "url": "https://www.italian.tech/dossier/intelligenza-artificiale/2024/12/09/video/come_usare_lintelligenza_artificiale_i_master_della_italian_tech_academy-423866414/",
+        "title": "Come usare l'intelligenza artificiale: i master della Italian Tech Academy",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-09",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/A5Qv3FO8dabjHr2qAe9jjL72aJA=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/12/09/192737178-026b4b7f-0c05-42b2-b4bd-da9810e83175.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2023/09/25/video/grazie_allintelligenza_artificiale_ho_parlato_in_giapponese_e_tedesco_due_lingue_che_non_conosco-423325953/",
+        "title": "Grazie all'intelligenza artificiale ho parlato in giapponese e tedesco, due lingue che non conosco",
+        "views": null,
+        "duration": null,
+        "upload_date": "2023-09-25T18:03:12Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/103755035-08d73fc1-152d-442c-9be2-1b9c42260e14.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/07/video/lintelligenza_artificiale_ti_aiutera_a_scegliere_il_farmaco_giusto_grazie_al_gemello_virtuale-423541448",
+        "title": "L'Intelligenza Artificiale ti aiuter\u00e0 a scegliere il farmaco giusto. Grazie al gemello virtuale",
+        "views": null,
+        "duration": "02:48",
+        "upload_date": "2024-10-07",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/10/07/173813684-e4da9110-4444-4254-a68a-4cef5cf9e480.jpg"
+      },
+      {
+        "url": "https://www.salute.eu/dossier/intelligenza-artificiale-salute-cura-malattie/2024/10/29/video/ia_se_la_diagnosi_la_fa_lalgoritmo_cosi_cambia_il_rapporto_medico-paziente-423585233/",
+        "title": "IA, se la diagnosi la fa l'algoritmo: cos\u00ec cambia il rapporto medico-paziente",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-10-29",
+        "thumbnail_url": "https://www.gelestatic.it/thimg/E99vkNJY10Bd0QXtpQcxV4c8kCg=/390x220/smart/https%3A//www.repstatic.it/content/contenthub/img/2024/10/29/104413832-ba77438d-fe9f-4cb6-9aed-52e0585dc979.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/09/16/video/lintelligenza_artificiale_per_predire_lalzheimer-423503900/",
+        "title": "L'Intelligenza Artificiale per predire l'Alzheimer",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-09-16T16:53:33Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/09/16/185332034-836a45ee-0f93-48c4-9275-dd4ce22262f3.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2025/03/07/video/lintelligenza_artificiale_per_la_diagnosi_precoce_del_tumore_al_seno-424048020/",
+        "title": "L'Intelligenza artificiale per la diagnosi precoce del tumore al seno",
+        "views": null,
+        "duration": "01:53",
+        "upload_date": "2025-03-07T09:33:22Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/03/07/103320495-3fa86654-e70b-4c41-a39c-9400907dc28a.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2022/04/19/video/la_star_dellorchestra_jazz_e_lintelligenza_artificiale_addestrata_con_oltre_500_assoli-423327385",
+        "title": "La star dell'orchestra jazz \u00e8 l'intelligenza artificiale: addestrata con oltre 500 assoli",
+        "views": null,
+        "duration": null,
+        "upload_date": "2022-04-19T06:10:21Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/104624114-66a9b473-68d1-4f38-b9c8-38f46904423f.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/12/video/le_luci_di_las_vegas_sullintelligenza_artificiale_che_vede_e_comprende_il_mondo-423882031/",
+        "title": "Le luci di Las Vegas sull'intelligenza artificiale che \"vede e comprende il mondo\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-12T09:04:53Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/12/12/100451636-088fa99f-61e2-4d97-b773-bc4b852db402.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/04/21/video/repidee_2024_luna_con_ascani_e_benanti_come_governare_lintelligenza_artificiale-423325390/",
+        "title": "RepIdee 2024, Luna con Ascani e Benanti: come governare l'intelligenza artificiale",
+        "views": null,
+        "duration": "40:52",
+        "upload_date": "2024-04-21",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/100505671-16862c62-7ee1-4ae2-b1a2-7576f7ed9c9c.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2022/12/29/video/direste_mai_che_questo_video_e_stato_creato_dallintelligenza_artificiale-423326334/",
+        "title": "Direste mai che questo video \u00e8 stato creato dall'intelligenza artificiale?",
+        "views": null,
+        "duration": null,
+        "upload_date": "2022-12-29T11:47:50Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/111000521-10d2cbf9-662c-4011-9069-6247f28d1451.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/dossier/intelligenza-artificiale/2022/10/20/video/il_video_virale_sullinquietante_evoluzione_delluomo_creato_con_lintelligenza_artificiale-423326460/",
+        "title": "Il video virale sull'inquietante evoluzione dell'uomo creato con l'intelligenza artificiale",
+        "views": null,
+        "duration": null,
+        "upload_date": "2022-10-20T19:53:17Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/07/09/101307894-6ae1a5cb-3dcf-4a2f-bf37-8a80cb12387e.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/dossier/repubblica-delle-idee/2025/06/14/video/repubblica_delle_idee_2025_-_lintelligenza_artificiale-424669374/",
+        "title": "Repubblica delle Idee 2025 - L'intelligenza artificiale",
+        "views": null,
+        "duration": "56:20",
+        "upload_date": "2025-06-14T15:55:44Z",
+        "thumbnail_url": "https://www.repstatic.it/content/nazionale/img/2025/06/14/175542990-7b6a4ffa-e37c-4ab0-9be2-95defddf2d52.jpg"
+      },
+      {
+        "url": "https://repubblica.it/embed/dossier/repubblica-delle-idee/2025/06/14/video/repubblica_delle_idee_2025_-_lintelligenza_artificiale-424669374",
+        "title": "Repubblica delle Idee 2025 - L'intelligenza artificiale - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-06-14",
+        "thumbnail_url": "https://www.repstatic.it/content/nazionale/img/2025/06/14/175542990-7b6a4ffa-e37c-4ab0-9be2-95defddf2d52.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/dossier/cronaca/repubblica-delle-idee-bologna-2024/2024/06/14/video/repubblica_delle_idee_2024_bologna_-_lintelligenza_artificiale-423233537/",
+        "title": "Repubblica delle Idee 2024, Bologna - L'Intelligenza Artificiale",
+        "views": null,
+        "duration": "46:32",
+        "upload_date": "2024-06-14T14:57:38Z",
+        "thumbnail_url": "https://www.repstatic.it/content/nazionale/img/2024/06/14/165736694-5cc96c8b-c263-4cc4-be84-df37031a25c5.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/dossier/cronaca/repubblica-delle-idee-bologna-2024/2024/06/14/video/repubblica_delle_idee_2024_bologna_-_luna_lintelligenza_artificiale_fa_troppi_errori_chatgpt_quando_non_sa_la_risposta_-423233501/",
+        "title": "Repubblica delle Idee 2024, Bologna - Luna: \"L'intelligenza artificiale fa troppi errori, ChatGPT quando non sa la risposta la inventa\"",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-06-14T14:37:08Z",
+        "thumbnail_url": "https://www.repstatic.it/content/nazionale/img/2024/06/14/163706989-dd8c213d-beb5-4e43-9f9d-5647d510eee0.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/30/news/ia_in_italia_dati_utilizzo_analisi_comscore_chatgpt_deepseek_copilot-424638709",
+        "title": "In Italia \u00e8 in forte crescita l\u2019uso dell\u2019intelligenza artificiale - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-30T10:37:40Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/30/123738950-0236ea8f-ac50-4357-98b7-c014a73777b2.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2023/03/01/news/chagpt_e_la_nuova_openai_aperta_ma_non_troppo_ci_siamo_sbagliati_sullessere_open_source-390064649/",
+        "title": "L'intelligenza artificiale oltre quella umana e gli umani come formiche: OpenAI e i rischi della IA Forte",
+        "views": null,
+        "duration": null,
+        "upload_date": "2023-03-01T16:55:42Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2023/03/01/103852852-332c8ba0-659e-4cc9-bb63-cdeef1e61fa7.jpg"
+      },
+      {
+        "url": "https://repubblica.it/tecnologia/2023/03/01/news/il_nuovo_ceo_di_youtube_ai_dipendenti_punteremo_su_ia_streaming_giochi_e_podcast-390127914",
+        "title": "Il nuovo CEO di YouTube ai dipendenti: punteremo su IA, streaming, giochi e podcast",
+        "views": null,
+        "duration": null,
+        "upload_date": "2023-03-01T16:55:42Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2023/03/01/175534972-559096de-40c6-4cc5-8299-7be73cdc35ef.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/economia/dossier/affari-e-finanza-live-2025/2025/03/18/video/af_live_-_la_transizione_digitale_2_dallintelligenza_artificiale_alla_digitalizzazione_dei_processi-424070318/",
+        "title": "A&F Live - La transizione digitale 2: dall'intelligenza artificiale alla digitalizzazione dei processi",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-03-18T12:12:49Z",
+        "thumbnail_url": "https://www.repstatic.it/content/nazionale/img/2025/03/18/131247679-461e2e46-41ef-409e-9f37-21aed1ca9746.jpg"
+      },
+      {
+        "url": "https://repubblica.it/tecnologia/dossier/intelligenza-artificiale/2024/12/10/news/sora_openai_ia_testo_video_come_si_usa-423872465",
+        "title": "Arriva Sora di OpenAI: come funziona l\u2019IA che trasforma un testo in un video",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-12-10T07:49:11Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/12/10/084907976-395af373-a937-4d36-8d83-94d9fdec2465.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/03/03/video/parla_balla_e_si_ricorda_di_te_amira_e_un_robot_umanoide_che_fa_impressione-424039932/",
+        "title": "Parla, balla e si ricorda di te: Amira \u00e8 un robot umanoide che fa impressione",
+        "views": null,
+        "duration": "01:43",
+        "upload_date": "2025-03-03T15:32:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/03/03/163159148-6df8b053-b6f8-4054-864b-f3fd66853b03.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2022/04/12/news/cosi_lintelligenza_artificiale_semplifica_la_vita_ai_filmmaker-345145953/",
+        "title": "L'intelligenza artificiale di Adobe rende pi\u00f9 facile la vita di registi e montatori",
+        "views": null,
+        "duration": null,
+        "upload_date": "2022-04-12T00:00:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2022/04/12/080512769-45e6b5c8-2749-4f2a-83e1-f8bfd09434e3.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2022/05/07/news/gli_studi_sulla_ia_ristretta_e_lincognita_della_ia_generale-346311622",
+        "title": "Gli studi sulla IA ristretta e le incognite della IA generale",
+        "views": null,
+        "duration": null,
+        "upload_date": "2022-05-07T11:21:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2022/04/21/140740097-4f7576a5-4c8e-44fb-a53a-7fbad0e8816c.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/05/news/meta_zuckerberg_futuro_amicizia_intelligenza_artificiale-424166618/",
+        "title": "Per Mark Zuckerberg il futuro dell\u2019amicizia \u00e8 artificiale",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-05T00:00:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/05/121510839-e576daaa-6059-45cc-8da2-c02ab57f5219.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/06/16/news/meta-ai-ancora-a-rischio-pubblicate-conversazioni-utenti-424672413/",
+        "title": "Le domande fatte all\u2019IA di Meta possono diventare pubbliche",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-06-16T00:00:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/06/16/124017168-3871c3b9-7b35-4588-b3ab-2f2b04887de9.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/06/20/news/meta-ai-chiede-numero-societa-ferroviaria-ma-ia-invia-quello-di-un-privato-allarme-privacy-424681353/",
+        "title": "Meta AI si \u00e8 inventata un numero di telefono. \u00c8 pi\u00f9 grave di quanto si pu\u00f2 pensare",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-06-20T09:52:24Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/06/20/115221098-73e3f49d-245a-4b8b-8929-6fe9fd106461.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/salute/dossier/intelligenza-artificiale-salute-cura-malattie/2024/09/23/video/dr_google_sostituito_da_drchat-423516593/",
+        "title": "Dr Google sostituito da Dr ChatGPT?",
+        "views": null,
+        "duration": null,
+        "upload_date": "2024-09-23",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2024/09/23/134413281-5d69dfae-b450-43a1-ad6e-6ff9e7d71790.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/04/18/video/dolphingemma_lia_di_google_per_decifrare_come_comunicano_i_delfini-424136718/",
+        "title": "DolphinGemma, l'IA di Google per decifrare come comunicano i delfini",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-04-18T16:51:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/04/18/185058692-df8af8a4-4784-401b-b798-193c535fb06a.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/06/09/video/lia_puo_dipendere_da_un_chip_in_texas_amazon_cerca_una_risposta-424657463",
+        "title": "Viaggio nei laboratori Amazon in Texas, per scoprire come nasce un chip per l\u2019IA",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-06-09T13:05:37Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/06/09/150535801-69bb14ee-e731-41db-8022-1f8f4cad26b0.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/05/14/news/tiktok_ai_alive_arriva_funzione_trasforma_foto_in_video_realistici_come_funziona-424187491",
+        "title": "TikTok AI Alive: come funziona il tool che trasforma le foto in video realistici - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-05-14T10:54:04Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/05/14/125402531-96dbc648-aa8f-441c-b6b0-dba9e490aca1.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-infrastrutture-2025/2025/07/07/news/ia_e_gemelli_digitali__la_rete_tlc_del_futuro-424710626",
+        "title": "IA e \u201cgemelli digitali\u201d . La rete Tlc del futuro",
+        "views": null,
+        "duration": null,
+        "upload_date": "2025-07-07T06:00:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/nazionale/img/2025/07/06/094241734-bd07f1cc-aa90-4a47-9b1f-6b57f37b4017.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2022/01/19/news/i_patemi_e_le_virtu_delle_intelligenze_artificiali_nella_lotta_al_terrorismo-334297992",
+        "title": "Come l'intelligenza artificiale pu\u00f2 diventare un'arma contro il terrorismo - la Repubblica",
+        "views": null,
+        "duration": null,
+        "upload_date": "2022-01-19T11:48:00Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2022/01/18/104405117-2b76b79a-db35-429c-ba66-afa8dec9101a.jpg"
+      },
+      {
+        "url": "https://www.repubblica.it/tecnologia/2025/04/15/news/google_gemini_veo_2_come_usarlo-424129985",
+        "title": "Google, con Veo 2 ora Gemini pu\u00f2 creare video a partire da un testo - la Repubblica",
+        "views": null,
+        "duration": "1 minuto",
+        "upload_date": "2025-04-15T17:04:45Z",
+        "thumbnail_url": "https://www.repstatic.it/content/contenthub/img/2025/04/15/190443546-e147ddf8-a4a2-4619-8ff1-1c17c3c23066.jpg"
+      }
+    ]
+  },
+  "error": null,
+  "warning": null,
+  "sources": null
+}

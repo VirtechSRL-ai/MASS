@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "status": "completed",
+  "expiresAt": "2025-06-23T12:21:28+00:00",
+  "success": true,
+  "data": {
+    "videos": [
+      {
+        "url": "https://www.phica.eu/forums/threads/bane-mbaye.16790640/",
+        "title": "Bane Mbaye",
+        "views": 1710,
+        "duration": null,
+        "upload_date": "2025-05-17T13:57:00Z",
+        "thumbnail_url": "https://www.phica.eu/forums/styles/default/xenforo/metalogo.jpg"
+      }
+    ]
+  },
+  "error": null,
+  "warning": null,
+  "sources": null
+}

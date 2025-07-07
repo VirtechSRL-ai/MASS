@@ -1,0 +1,19 @@
+{
+  "id": null,
+  "status": "completed",
+  "expiresAt": "2025-06-23T12:48:45+00:00",
+  "success": true,
+  "data": {
+    "references": [
+      {
+        "url": "https://www.phica.eu/forums/threads/bane-mbaye.16790640/",
+        "title": "Bane Mbaye",
+        "content": "strano che non ci sia un thread attivo su uno dei culi pi\u00f9 grandi d\u2019italia",
+        "thumbnail_url": "https://www.phica.eu/forums/styles/default/xenforo/metalogo.jpg"
+      }
+    ]
+  },
+  "error": null,
+  "warning": null,
+  "sources": null
+}
